@@ -7,3 +7,7 @@ func CalNumber(num1, num2 int) int {
 func ApcCal(num1, num2 int) int {
 	return num1 * num2
 }
+
+func ApcPlus(num1, num2 int) int {
+	return num1 * num2 * num2
+}
